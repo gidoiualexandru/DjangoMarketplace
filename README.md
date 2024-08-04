@@ -4,7 +4,6 @@ This is a Marketplace app created using Django and Python. It has Admin dashboar
 
 ## Instructions how to run the project
 - Clone the repository
-### Run
-- pip install
+
 ### Run
 - python manage.py runserver
